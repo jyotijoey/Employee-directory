@@ -1,11 +1,12 @@
 import './App.css';
+import Block from "./Block";
 
 function App() {
   return (
     <div className="App">
-      <h1>directory app</h1>
+      <Block />
     </div>
   );
 }
 
-export default App;
+export default App; 
