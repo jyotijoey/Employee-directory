@@ -1,0 +1,15 @@
+.block{
+    display:flex;
+}
+.block__item{
+    height:auto;
+    width: 20vw;
+    background-color: beige;
+    border: 1px solid brown;
+    padding: 20px;
+    margin: auto;
+}
+
+p{
+    padding: 5px;
+}
